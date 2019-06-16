@@ -1,0 +1,383 @@
+:root {
+    --bg-color: black;
+}
+
+/* Just below nav bar of topics */
+a {
+    color: white !important;
+}
+.extremeHero-container {
+    background-color: var(--bg-color) !important;
+}
+
+.uiScale .ui-h1, .uiScale .ui-h2, .uiScale .ui-h3, .uiScale .ui-h4  {
+    color: white !important;
+}
+
+.uiScale .postMetaInline {
+    color: white !important;
+}
+
+.uiScale .ui-caption {
+    color: white !important;
+}
+
+.uiScale .ui-summary {
+    color: #b9c0cc !important;
+}
+
+.homeContainer, .js-homepage, .metabar-sibling {
+    background-color: var(--bg-color) !important;
+}
+
+.metabar {
+    background-color: black !important;
+}
+
+.extremeHero-divider {
+    border-color: darkgray !important;
+}
+
+/* News from your Network */
+
+.u-backgroundGrayLightest {
+    background-color: var(--bg-color) !important;
+}
+
+/* See all featured */
+.uiScale .ui-body.ds-link--styleObvious, .uiScale .ui-caption.ds-link--styleObvious, .uiScale .ui-captionStrong.ds-link--styleObvious {
+    color: #03a87c!important;
+    fill: #03a87c!important;
+}
+
+/* Based on your reading history */
+
+.uiScale .ui-capsSubtle {
+    color: white !important;
+}
+
+/* Popular on Medium */
+.u-textColorLighter {
+    color: white !important;
+}
+
+
+
+/* nav bar title page */
+.screenContent, .surface-content {
+    background-color: var(--bg-color) !important;
+    color: white !important;
+}
+
+.u-textColorNormal {
+    color: white !important;
+}
+
+.collectionHeader--layoutLarge.collectionHeader--colorBehaviorSubtle .collectionHeader-nav:after, .collectionHeader--layoutMedium.collectionHeader--colorBehaviorSubtle .collectionHeader-nav:after, .collectionHeader--layoutSmall.collectionHeader--colorBehaviorSubtle .collectionHeader-heroAndInlineNav:after {
+    border-color: darkgray !important;
+}
+
+.collectionHeader--layoutMedium .collectionHeader-description {
+    color: white !important;
+}
+
+
+/* Article */
+
+article {
+    background-color: var(--bg-color) !important;
+}
+
+.button {
+    color: white !important;
+}
+
+body.is-withMagicUnderlines .markup--anchor {
+    text-decoration: underline !important;
+}
+
+hr.section-divider:before {
+    color: white !important;
+}
+
+.graf--pre {
+    background-color: black !important;
+}
+
+.imageCaption {
+    color: white !important;
+}
+
+.graf--pullquote {
+    color: white !important;
+}
+
+body.is-withMagicUnderlines .markup--quote.is-other {
+    background: #02B875 !important;
+}
+
+.section-content {
+    background-color: var(--bg-color) !important;
+    color: white !important;
+}
+
+.graf--h2, .graf--h3, .graf--h4 {
+    color: white !important;
+}
+
+
+.u-paddingTop10 {
+    background-color: var(--bg-color) !important;
+    color: white !important;
+}
+
+.uiScale .ui-body {
+    color: white !important;
+}
+
+.postActions {
+    background-color: var(--bg-color) !important;
+}
+
+.tags--borderless .tag-button, .tags--borderless>.button, .tags--borderless>a, .tags--borderless>li {
+    background-color: black !important;
+}
+
+.u-backgroundWhite {
+    background-color: var(--bg-color) !important;
+}
+
+.cardChromeless {
+    background-color: var(--bg-color) !important;
+    color:white !important;
+    border: 1px solid rgba(255, 255, 255, 0.09) !important;
+}
+
+.responsesStream-title .heading-title {
+    color: white !important;
+}
+
+/* end of article */
+
+.u-flexCenter {
+    background: transparent !important;
+}
+
+/* profile icon */
+.popover-inner {
+    background-color: var(--bg-color) !important;
+}
+
+/* profile page */
+.c {
+    background-color: var(--bg-color) !important;
+}
+
+/* Icon colors */
+.svg-icon path {
+    fill: white !important;
+}
+
+.svgIcon-use path {
+    fill: white !important;
+    color: white !important;
+}
+
+.button--chromeless .svgIcon, .button--link .svgIcon {
+    fill: white !important;
+}
+
+svg.ca.n.cc path {
+    fill: white !important;
+}
+
+svg.star-15px_svg__svgIcon-use path {
+    fill: white !important;
+}
+
+.aj path {
+    fill: white !important;
+}
+
+.svgIcon--45px  {
+    fill: black !important;
+    color: white !important;
+}
+
+svg path {
+    fill: white !important;
+}
+
+
+/*Pop over on hover color*/
+.u-textColorDark {
+    color: white !important
+}
+
+/* search bar text color */
+.u-textColorDark {
+    color: white !important;
+}
+
+/* heading */
+.heading {
+    color: white !important;
+}
+
+.heading--light, .heading--light .heading-content, .heading--light .heading-title {
+    color: white !important;
+}
+
+.tags--postTags.tags--light .tag-button, .tags--postTags.tags--light>a, .tags--postTags.tags--light>li {
+    background: black !important;
+}
+
+.heading-prefix {
+    color: white !important;
+}
+
+/* MEDIUM - the title and the rest */
+.u-fillTransparentBlackDarker {
+    fill: white !important;
+}
+
+.u-background--brandSageLighter {
+    background-color: black !important;
+}
+
+.brand {
+    color: white !important;
+}
+
+.ui-body {
+    color: white !important;
+}
+
+.brand > .ui-h2 {
+    color: black !important;
+}
+
+.textInput {
+    background: black !important;
+}
+
+.creditCardForm-heading {
+    color: white !important;
+}
+
+.creditCardForm-heading {
+    color: white !important;
+}
+
+.InputContainer {
+    color: white !important;
+}
+
+.textInput--underlined {
+    border-color: white !important;
+}
+
+.u-backgroundTransparentWhiteDarker {
+    background: black !important;
+}
+
+.u-background--brandSea {
+    background: black !important;
+}
+
+.u-background--brandDust {
+    background: black !important;
+}
+
+.missionPage-compareList--strike>ul {
+    color: white !important;
+}
+
+.u-textColorDarker {
+    color: white !important;
+}
+
+.u-background--brandRose {
+    background-color: black !important;
+}
+
+.u-backgroundWhite50BrandSand50Right {
+    background-color: black !important;
+}
+
+.brand--accentSand {
+    background-color: black !important;
+}
+
+.notificationsList-author, .notificationsList-milestone, .notificationsList-note, .notificationsList-title {
+    color: white !important;
+}
+
+.footer {
+    background-color: black !important;
+}
+
+.container {
+    background-color: black !important;
+}
+
+.footer-submit-ticket {
+    background-color: #0c1710 !important;
+    color: white !important;
+}
+
+main {
+    background: black !important;
+}
+
+.layout__main:after {
+    background: black !important;
+}
+
+/* Inverting images to match the background */
+.logo img {
+    -webkit-filter: invert(100%) !important;
+}
+
+.collectionHeader-logoImage {
+    -webkit-filter: invert(100%) !important;
+}
+
+.footer-submit-ticket {
+    margin-bottom: 0 !important;
+}
+
+header {
+    margin-top: 0 !important;
+}
+
+.af {
+    color: white !important;
+}
+
+.ar {
+    color: white !important;
+}
+
+.bh {
+    color: white !important;
+}
+
+.de {
+    color: white !important;
+}
+
+.br {
+    color: white !important;
+}
+
+.dm {
+    border-color: darkgray !important;
+}
+
+.heading-title--dark {
+    color: white !important;
+}
+
+
+
